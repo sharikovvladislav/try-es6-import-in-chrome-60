@@ -1,0 +1,1 @@
+export default (data) => console.log('module a', data);
